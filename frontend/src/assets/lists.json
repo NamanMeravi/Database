@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "jQuery",
+        "title": "JavaScript Library",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 2,
+        "name": "React",
+        "title": "JavaScript Library for Building User Interfaces",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 3,
+        "name": "Angular",
+        "title": "Platform for Building Mobile and Desktop Web Applications",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 4,
+        "name": "Vue.js",
+        "title": "The Progressive JavaScript Framework",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 5,
+        "name": "Svelte",
+        "title": "Cybernetically Enhanced Web Apps",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 6,
+        "name": "Ember.js",
+        "title": "A Framework for Ambitious Web Developers",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 7,
+        "name": "Backbone.js",
+        "title": "Give Your JS App Some Backbone with Models, Views, Collections, and Events",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 8,
+        "name": "Meteor",
+        "title": "An Open-Source Platform for Web, Mobile, and Desktop",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 9,
+        "name": "Polymer",
+        "title": "Reusable Components for the Modern Web",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    },
+    {
+        "id": 10,
+        "name": "D3.js",
+        "title": "Bring Data to Life with SVG, Canvas, and HTML",
+        "prize": "20",
+        "category": "free",
+        "image": "https://angular.io/assets/images/logos/angular/angular.png"
+    }
+]
